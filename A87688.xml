@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philanthropophagia, delineated in A mirthless mirrour of the matchless misery of a money-less minister, born in the south [of England.] Mischievously managed by the merciless misdemeanour of a money-minded minster-man, living in the north of England. Or, a true narrative of the inexcusable inhumanity of one Mr. Timothie Tullie, late preacher at Carlisle, now one of the prebendaries of the cathedrall church of York. Acted against one Thomas Kentish, rector of Middleton in Teasdale within the county of Durham. Written by the aforesaid Thomas Kentish minister of the gospel</title>
+            <author>Kentish, Thomas, d. 1695.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87688</idno><idno type="EEBO-CITATION">99896260</idno>
+  <idno type="VID">154016</idno>
+  <idno type="EEBO-PROQUEST">2240915185</idno>
+  
+            <idno type="STC">Wing K321A</idno>
+            <idno type="STC">ESTC R230352</idno>
+            <idno type="PROQUEST">99896260</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896260e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philanthropophagia, delineated in A mirthless mirrour of the matchless misery of a money-less minister, born in the south [of England.] Mischievously managed by the merciless misdemeanour of a money-minded minster-man, living in the north of England. Or, a true narrative of the inexcusable inhumanity of one Mr. Timothie Tullie, late preacher at Carlisle, now one of the prebendaries of the cathedrall church of York. Acted against one Thomas Kentish, rector of Middleton in Teasdale within the county of Durham. Written by the aforesaid Thomas Kentish minister of the gospel</title>
+                  <author>Kentish, Thomas, d. 1695.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the moneth of December, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First line of title page in Greek characters.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tullie, Timothy, 1612 or 13-1700 --  Early works to 1800.</term>
+               <term type="topical_term">Debt --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154016:1"/>
+            <p>ΦΙΛΑΝΘΡΩΠΟΦΑΓΙΑ, Delineated in
+<list>
+                  <item>
+                     <hi>A Mirthless Mirrour</hi> of the Matchless Misery of a Money-less Minister, born in the South</item>
+                  <item>
+                     <hi>Mischievously managed</hi> by the Merciless Misdemeanour of a mony-minded Minster-man, living in the North</item>
+               </list> of ENGLAND.</p>
+            <p>OR, A true NARRATIVE OF THE Inexcusable Inhumanity of one Mr. <hi>Timothie Tullie,</hi> late Preacher at <hi>Carlisle,</hi> now one of the Prebendaries of the Cathedrall Church of <hi>York.</hi>
+            </p>
+            <p>ACTED Against one <hi>Thomas Kentish,</hi> Rector of <hi>Middleton</hi> in <hi>Teasdale</hi> within the County of <hi>Durham.</hi>
+            </p>
+            <l>
+               <hi>Timothy</hi> the faithful had Epistles holy</l>
+            <l>Sent him by <hi>Paul,</hi> yet he a man most lowly;</l>
+            <l>But tis not so with such as clime so high,</l>
+            <l>As daily seeks to do this <hi>Timothy.</hi>
+            </l>
+            <l>
+               <hi>Tullie</hi> the Orator was a man of fame,</l>
+            <l>But so's not every man that hath the name;</l>
+            <l>Hear but this <hi>Tullie</hi> preach, &amp; you'l know ful<g ref="char:EOLhyphen"/>ly,</l>
+            <l>All you'l say of him, is, his name's <hi>Tullie.</hi>
+            </l>
+            <p>Written by the aforesaid <hi>Thomas Kentish</hi> Minister of the Gospel.</p>
+            <q>
+               <p>Beware of false Prophets which come to you in sheeps cloathing, but inwardly they are ravening wolves.</p>
+               <bibl>
+                  <hi>Mat. 7.15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Yea they are greedy dogs, which ne<g ref="char:EOLhyphen"/>ver have enough,</p>
+               <bibl>
+                  <hi>Isa. 56.11.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>We must through much tribulation enter into the Kingdom of God,</p>
+               <bibl>
+                  <hi>Acts 14.22.</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>Aetas Parentum pejor avis, &amp;c.</l>
+               <hi>Hor. lib.</hi> 3. <hi>Ode</hi> 6.</q>
+            <p>
+               <hi>London,</hi> Printed in the moneth of <hi>December,</hi> 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154016:2"/>
+            <opener>
+               <salute>Christian Friend,</salute>
+            </opener>
+            <p>
+               <hi>IF thou really art what I call thee, I doubt not, thou wilt readily view what is before thee: With seriousness be perswaded to peruse this Paper: This I may boldly speak, and once viewed, thou wilt as freely grant; tis less grievous to view it then to feel it: Then think not much to do the one, since the reverend Author hath (to his wo) done both: Bless God thou art the Reader, not the Sufferer: In reading Sympathize, suppose the Case thine own.</hi>
+            </p>
+            <p>
+               <hi>I will say but this: Be but such a Reader, if not for the sake of him who is the Sufferer, yet for His sake from whom he is a Messenger; and question not but his Master will be thy Rewarder. Ruminate upon two Scriptures,</hi> Heb. 13.3. &amp; Mat. 10. the three last verses.</p>
+            <closer>
+               <signed>Yours in the Lord, <hi>I. K.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="anagram">
+            <list>
+               <head>Anagram.</head>
+               <item>Timothie Tullie</item>
+               <item>
+                  <hi>I*—vile Lett to Him</hi>†</item>
+            </list>
+            <div type="comment">
+               <head>To the Ingenuous Reader.</head>
+               <opener>
+                  <salute>Friend,</salute>
+               </opener>
+               <l>
+                  <hi>To Him!</hi>] that's <hi>Kentish;</hi> for you'l see <hi>Herein,</hi>
+               </l>
+               <l>This <hi>Tullie</hi> hath a <hi>vile Lett to Him</hi> bin:</l>
+               <l>And though <hi>He fain</hi> would cloak the same,</l>
+               <l>Rather then so, His <hi>very</hi> Name</l>
+               <l>Will prove the <hi>Tell-tale</hi> to His shame:</l>
+               <l>See how the Name, nor <hi>rack'd,</hi> nor <hi>brib'd</hi> betrays</l>
+               <l>The man! <hi>Thon</hi> think it truth, which <hi>It</hi> displays:</l>
+               <l>The <hi>Letters</hi> by <hi>themselves</hi> His <hi>Motto</hi> raise.</l>
+            </div>
+            <div type="comment">
+               <head>To the Reverend Author.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <l>The name first* <hi>lisps;</hi> next † <hi>points,</hi> at you (no doubt)</l>
+               <l>Sure, <hi>You</hi> It means, although It can't <hi>speak out:</hi>
+               </l>
+               <l>For this both <hi>I,</hi> and <hi>Others</hi> too</l>
+               <l>Can <hi>witness,</hi> what <hi>It</hi> hints is true;</l>
+               <l>A <hi>vile Lett</hi> He hath prov'd to <hi>You:</hi>
+               </l>
+               <l>Yet <hi>this</hi> your <hi>Self</hi> do better know</l>
+               <l>Then <hi>any</hi> else, (and 'tis your <hi>Woe:</hi>)</l>
+               <l>We see, hear, read it, but You <hi>feel</hi> it so.</l>
+            </div>
+            <closer>
+               <signed>I. K.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <p>
+               <hi>HOly-hearted Christian-Readers</hi> (for I intend not without some spe<g ref="char:EOLhyphen"/>cial motive, or mistake, the view of this ensuing Narrative for any others.) I think I shall not need to Apologize for my appearing in Print; the Narrative it self sufficiently does that.</p>
+            <p>HAd not the ardent avarice of one Mr. <hi>Ti<g ref="char:EOLhyphen"/>mothie Tullie</hi> (late Preacher at the City of <hi>Carlisle</hi>) broke forth into such into<g ref="char:EOLhyphen"/>lerable acts of pinching oppression, upon my poor estate, as of late it hath, your patience had not been put to the perusal of these lines.</p>
+            <p>Indeed the said Mr. <hi>Tullie</hi> hath been a man so full of specious appearances to<g ref="char:EOLhyphen"/>wards Religion, so superficially gilded with watchfulness over his ways (which some count holiness) that I think he can<g ref="char:EOLhyphen"/>not be justly taxed with the guilt of such open prophaness, and notorious miscarri<g ref="char:EOLhyphen"/>ages, as are incident to other ravening ones, who are not clad with such a dress of sheeps cloathing to cloak their wolvish<g ref="char:EOLhyphen"/>ness, as the said Mr. <hi>Tullie</hi> is.</p>
+            <p>Yet too too apparent it is to the world, that he is not thorowly-hearted to fol<g ref="char:EOLhyphen"/>low the dictate of Christ, in doing unto others as we would have them to do unto us, <hi>Mat</hi> 7.12. For can any imagine that he should be willing to have another man turn his wife and family out of doors (and in a cold snowy season too) as he turned out mine? or dispossess him of his whole livelyhood, as he hath dispossessed me of mine? Or damnifie him by suits at Law for trespasses, where he never did wrong? And yet thus hath he dealt by me, as you will see presently.</p>
+            <p>Forasmuch then as the said Mr. <hi>Tullie</hi> hath so far gratified his avaritious humour as to invalidate those specious pretences of Saint-like innocence, by lying on his bed meditating mischief, and rising up early
+<pb n="3" facs="tcp:154016:2"/>to practise it; by prosecuting the same day after day, week after week, moneth af<g ref="char:EOLhyphen"/>ter moneth, unto the extent of 16. months and upwards (he having been thus busied ever since the middle of <hi>August</hi> 1660. without the least visible discovery of re<g ref="char:EOLhyphen"/>pentance in heart, or retrogradation in act:) I could not <hi>in this regard</hi> think it altogether inexpedient, to expand before you the lamentable experience that I have had hereof; being now resolved to rouze up my heavy heart and sadned spi<g ref="char:EOLhyphen"/>rit, with my shaking hand, to pen the story of his harsh demeanour towards me.</p>
+            <p>Yet what I do herein, shall be with an humble-kneeling heart, as in the presence of the heart-searching God, and with a conscience no less obliged to express the truth, then if my hand were on <hi>the</hi> Book: For what I shall thus declare unto you, shall be nothing else, but what I am able to approve by the testimony of witness sufficiently credible: Or if any thing herein be questioned, of more secret cog<g ref="char:EOLhyphen"/>nizance, I shall (if thereunto called) be ready to aver the same, by sealing it with my own personal oath.</p>
+            <p>With your leave and favour then, I shall (in a few lines) first signifie my timely ac<g ref="char:EOLhyphen"/>cess to, together with my comfortable abode in, the Rectory of <hi>Middleton</hi> in <hi>Teasdale</hi> within the County of <hi>Durham:</hi> and then straitway present you with a serious and faithfull Account of the grie<g ref="char:EOLhyphen"/>vous and wofull estate; which the hard usage of the said Mr. <hi>Tullie,</hi> both in and since his dispossessing me thereof, hath un<g ref="char:EOLhyphen"/>deservedly plunged me into: which is such (all circumstances rightly weighed) as I verily think all <hi>England</hi> will not yield the like.</p>
+            <p>In doing which, it must not be expect<g ref="char:EOLhyphen"/>ed, that my gray-hairs should (according to the present guise) appear in the gaudy garb of Rhetorical garnishes; for indeed not only the gravity of my age, as also my renewed sorrows, but even the very nature of the subject it self, do plainly forbid me either the new-minting or the curious culling of such a kind of phrase; such a quaintness of expression not at all suiting with the sadness of such a Re<g ref="char:EOLhyphen"/>lation.</p>
+            <div type="part">
+               <head>My case then with all plainness, morally stated, take as followeth.</head>
+               <p>IN the year of our Lord, 1648. when the Army made an in-road upon the Parlia<g ref="char:EOLhyphen"/>ment, and secluded about sixscore mem<g ref="char:EOLhyphen"/>bers or more from the House; the major part of the remaining Members resolving to bring the late King to tryal for his life; the loyaltie of my affection made me <hi>then</hi> so far diffent from those pro<g ref="char:EOLhyphen"/>ceedings, that I could not but manifest both in prayer and preaching my unfeign<g ref="char:EOLhyphen"/>ed disrellish of the same, till at length I fell under such a disgust with the then Committee for plundered Ministers, that they proved sore Plunderers to me indeed; for they sequestred from me the profits of the Living that I then had, till they had almost undone me with their injurious Actings.</p>
+               <p>Then about three or four years after this, the Lord by his providence opening me a way to the aforesaid Rectory of <hi>Middleton;</hi> I could not (being at that time destitute of livelyhood) but accept the same, although it was above eleven score miles distant from my former place of Residence: And being once setled therein with the general approbation of the peo<g ref="char:EOLhyphen"/>ple, it pleased the Lord (in a short time) so far to engage their hearts unto Me, as is but seldom seen: whose serene aspect I have now enjoyed nine years, or there<g ref="char:EOLhyphen"/>abouts.</p>
+               <p>Howbeit by reason of some heavy debts formerly incurred by means of the said Committee, together with the charges of so vast a Remove; as also other various disbursments since that, for first-fruits, annual tenths, monethly Taxes, and ne<g ref="char:EOLhyphen"/>cessary reparations, on, and about the Parsonage house, and its appurtenances; I became so miserably impoverished that all I. had in the World was not sufficient to pay my debts.</p>
+               <pb n="4" facs="tcp:154016:3"/>
+               <p> Yet having an hundred or six-score pounds <hi>per annum</hi> coming in by means of that Rectory, and my children almost all brought up, I comforted my self with the hopes of enjoying a competent Main<g ref="char:EOLhyphen"/>tenance among a loving people, during the days of my aged self, and more aged Wife; but <hi>vae misero mihi,</hi> &amp;c. For the very next Summer after the Kings Restoration (the Living being about 200. miles from <hi>London,</hi> &amp; my age and corporal Infirmities (at that time) rendring me unfit to attend his Majesty with a Petition for my settle<g ref="char:EOLhyphen"/>ment) the said Mr. <hi>Tullie,</hi> although he never had title to the Living before, and though he had a fair annual Revenue by his Prebendship at <hi>York,</hi> together with a large and liberal allowance for his Mini<g ref="char:EOLhyphen"/>sterial service in the City of <hi>Carlisle,</hi> be<g ref="char:EOLhyphen"/>sides a very considerable temporal estate of his own; yet (like a greedy Groll, that never thinks he hath enough) he begg'd away my Living also, though it was the only subsistence I had in the world. And observe this by the way, that whereas the people before were wont to have preaching twice every Sabbath, they are now popt off with a single Sermon, and sometimes not so much, since he usurped the Cure.</p>
+               <p>And albeit the said Mr. <hi>Tullie</hi> having got a Presentation to my Living in the said middle of <hi>August</hi> 1660 (and that meerly by a false suggestion, representing it in his Petition as wholly vacant) should (according to the Act for setling of Mini<g ref="char:EOLhyphen"/>sters) have entred upon it from and after the 29th. of <hi>September;</hi> yet he suffered me to supply the Place one Sabbath after, without the least acknowledgement of the same; never exhibiting to me the said Presentation till the sixt of <hi>October</hi> fol<g ref="char:EOLhyphen"/>lowing. Upon fight whereof I (for im<g ref="char:EOLhyphen"/>ployment-sake) offered at reasonable terms to officiate the Cure for him; which he refusing to grant, I then bespake him thus, that albeit he had deprived me of my Living, yet I hoped he would not on the sudden dispossess me of my House; whereunto he answered, <hi>That I needed not make doubt of holding the house till</hi> Christ<g ref="char:EOLhyphen"/>mas <hi>at the least; for</hi> (said he) <hi>the Act concerning Ministers will allow you time to keep it till then.</hi>
+               </p>
+               <p>Now when I seriously pondered, how that my own Estate was (long since) con<g ref="char:EOLhyphen"/>sumed by the means aforesaid, and that even this Rectory (my present and only subsistence) was also taken from me by virtue of the said Presentation; and withall considered the person that had got the same, how that I was to him, not only in age much Superiour, in estate much Inferi<g ref="char:EOLhyphen"/>our, but also in sufferings for the Royal Family much more transcendent; and yet he in a likely way (besides the devouring of my whole livelyhood) to turn me ere long out of my only habitation likewise, though then of late made very convenient and usefull by a chargeable reparation; <hi>It was</hi> the hardest measure I ever met with, the saddest of outward afflictions that ever seized upon my spirit.</p>
+               <p>Yet nevertheless, when the said Mr. <hi>Tullie</hi> (dwelling as yet afar off) came on Lords-days to officiate and preach among the people, I did invite him to dinner two or three several times, and also to a lodg<g ref="char:EOLhyphen"/>ing on <hi>Saturdays</hi> and <hi>Lords-days</hi> at night, telling him that (if he pleased) he might have a free enjoyment of my best Room ready-furnished. But instead of accepting so civil a proffer, he did most dis-ingenu<g ref="char:EOLhyphen"/>ously demean himself against me very shortly after: for notwithstanding his former speech of my holding the house till <hi>Christmas,</hi> yet on the eighth of <hi>No<g ref="char:EOLhyphen"/>vember</hi> following (which was near seven weeks before that time, I also being then in <hi>London</hi>) he demanded of my wife pos<g ref="char:EOLhyphen"/>session of the said House; she answered him that I, her husband, was gone from home, and that she had no order from me to deliver possession in my absence; but if he would please to forbear about nine or ten days space, she told him, that he should by that time have an answer to his demand, or else possession delivered up.</p>
+               <p>Howbeit he would not be here-with sa<g ref="char:EOLhyphen"/>tisfied,
+<pb n="5" facs="tcp:154016:3"/>but six days after, he comes with three of the Sheriffs Bayliffs, and in a cold snowy season, he puts my weak, aged wife, and my feeble, and (at that time) sick daughter, with the rest of my Family altogether out of doors: so that had not some friends given them house-room for that present, and two neighbours volunta<g ref="char:EOLhyphen"/>rily entred into a Bond of 1500. l. to re<g ref="char:EOLhyphen"/>move my goods, and so to deliver him up intire possession of the house and out<g ref="char:EOLhyphen"/>houses, within ten days then next follow<g ref="char:EOLhyphen"/>ing; not only the said Sheriffs Bayliffs with great violence and spoil, would forth<g ref="char:EOLhyphen"/>with have cast out my goods while they were there present, but even my poor aged wife, with her sick daughter and servants, had all layen abroad that night, although it might have cost them their lives: And being thus forced to so sudden a remove, the said Neighbours were ne<g ref="char:EOLhyphen"/>cessitated to hire a little Cottage in the Town, though it would not hold half the goods, there not being a fitter house to be had (at that time) for any rent.</p>
+               <p>By this means my moveable goods were fain to be put in five or six several houses, and in so many several Mens custodies; my feather-beds layed on heaps at spoiling hand: My Bed-cloaths and other Furni<g ref="char:EOLhyphen"/>ture thrust into dank places, musting for want of good usage: My pewter and brass, and such kind of utensils knocked together, bruised, and rusting for want of meet disposal: My Tables, Chairs, Stools, Court-cupboards of carved work, with the rest of my houshold-stuff tumbled on heaps, some in one place, some in another, much mangled and decayed for want of room convenient to bestow them in: <hi>Cum multis aliis, quae, &amp;c.</hi> Oh the unutterable wo and damage that I have thus indured!</p>
+               <p>And not long after all this, my horses were removed out of my Stable, my Cows out of my Cow-house, my Swine out of their places of shelter; and no small trouble it was (the Neighbours there know) to procure harbour for them else<g ref="char:EOLhyphen"/>where; every man thereabouts having room little enough (if not too little) for his own Cattel in such a winter season.</p>
+               <p>And (as if this had been a small matter) to add yet to my wo; my Study (though one of the least Rooms in the House) might not be suffered to hold my Library, no, not till my return from <hi>London,</hi> though this was more earnestly desired by my friends then anyone thing else. Whereupon my books, my loose papers, with other private Manuscripts, were taken forth, and all in a most confused manner toffed together into Chests and Boxes; and so sent some to one neighbours house, some to another.</p>
+               <p>So that my own Home which was here<g ref="char:EOLhyphen"/>tofore the place of my greatest content<g ref="char:EOLhyphen"/>ment, is now become a place of least con<g ref="char:EOLhyphen"/>tent; as having now neither Study to re<g ref="char:EOLhyphen"/>tire in, nor other place fit to meditate in, nor books at hand, nor papers or notes in readiness when I have occasion to use them: The want whereof does unavoida<g ref="char:EOLhyphen"/>bly tend, not only to the inexpressible disquiet of my mind, but also to the irre<g ref="char:EOLhyphen"/>parable loss of my most precious time.</p>
+               <p>All which considered, I do (as in the presence of the Heart-searching God) seriously profess that the said Mr. <hi>Tullie</hi> could not (in my account) have done me greater injury, although by violence on the Road he should have taken from me six hundred pound of ready money.</p>
+               <p>And (which yet renders his actings (as all will grant) the more inexcusable; he at that time had no need of the House; for though he had put me to all this wo by dis<g ref="char:EOLhyphen"/>possessing me thereof; yet neither him<g ref="char:EOLhyphen"/>self, nor his wife, nor any of his Family (as the neighbours well know) did make any use of the same, or any of the out<g ref="char:EOLhyphen"/>houses, for the space of 5. or 6. months to<g ref="char:EOLhyphen"/>gether, but all that time did hire one of the Parishioners to lodge therein, only to maintain that possession which he had thus inhumanly wrested from me. <hi>O Monstrum horrendum, informe,</hi> &amp;c!</p>
+               <p>Moreover after all this, because the said Act of Parliament concerning Ministers
+<pb n="6" facs="tcp:154016:4"/>leaves the 29. of <hi>September</hi> (as a <hi>Casus omis<g ref="char:EOLhyphen"/>sus</hi>) not determining whether the Presentee or his Predecessor, shall have the Profits which become due on that day; therefore the said Mr. <hi>Tullie</hi> (at or before <hi>New years</hi> Tide then next following) demanded of the Parishioners the money due for Tithe hay that grew the Summer then last past, and was by custom payable on <hi>Michaelmas</hi> day, as if he himself had had more right to that 20. l. or 30. l. of Tithe hay money, who had never taken the least pains for it, then I who had performed the whole years Mi<g ref="char:EOLhyphen"/>nisterial service. (How incongruous these demands of my Adversary were to the rules of equity and good conscience, I dare leave it not only to every judicious Reader, but to any impartial &amp; unbyassed person what<g ref="char:EOLhyphen"/>ever, though never so scandalous, or debau<g ref="char:EOLhyphen"/>ched, to make judgement of the same.)</p>
+               <p>At which time being returned from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and hearing of those his demands, I went and told him that he had no right to any profits there, but what should (accord<g ref="char:EOLhyphen"/>ing to the said Act) become due from and after the 29. of <hi>Septemb.</hi> and that therefore he should not (with my consent) have any of the aforesaid Tithe hay money, unless he could recover it by Law: Whereunto he replied little at the present; but after I was gone, his own man reported he heard him say, <hi>Seeing I loved Law, I should have Law enough.</hi>
+               </p>
+               <p>Whereupon about the beginning of the next <hi>February</hi> he caused me to be arrested to answer him in five several Actions of very trifling trespasses, as treading on the gleab Land in the moneth of <hi>January,</hi> and sueh like; in all which I never did him so much as one penny worth of wrong. And over an<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> above he caused me to be served at the <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e time, with a Chancery <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> to <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er to as Causless a Bill of Complaint about Dilapidations, wherein he (most unjustly) charges me with 151 l. 5. s. 3. d. for ruines about the said Parsonage House, and its appurtenances; when as tis well known, and hath been as often and voluntarily acknowledged by the neigh<g ref="char:EOLhyphen"/>bours, that more hath been bestowed on the said Rectory by way of reparation in those few years I enjoyed it, then in any former time within the memory of man.</p>
+               <p>Now what unprejudiced person but will condemn such unheard of insatiableness? What plea himself can make, I know not, unless that of the Poet, <hi>Crescentem sequitur cura pecuniam.</hi> He in the first place begs away my living over my head; and next, to make me amends for my chargeable repa<g ref="char:EOLhyphen"/>rations, he <hi>ex professo</hi> sues me for dilapi<g ref="char:EOLhyphen"/>dations. (It makes me call to minde those ravenous and greedy Beasts, mentioned by our Saviour in <hi>Mat.</hi> 7.15. and by the Pro<g ref="char:EOLhyphen"/>phet in <hi>Isa.</hi> 56.11.) But the Lord of comfort (I trust) after I have suffered a while will find a time to deliver me from all such unreasonable men.</p>
+               <p>You have not seen all yet; for though he had thus begg'd away my living, thrust me out of my dwelling, exhausted me by so many vexatious suits in Law, of which you shall see more by and by; yet this would not content him; but (as if he would be sure to disable me from defend<g ref="char:EOLhyphen"/>ing my self) he caused the said Sheriffs Bayliffs on the 4th. or 5th. of the said <hi>February</hi> to secure out of my hands, all my vendible goods that were abroad, and in the Barn and out-houses, as Cattel, Corn, Hay, Straw, some Timber, and many other necessaries; so that I had nothing left at liberty to make money of, neither for pre<g ref="char:EOLhyphen"/>sent necessity in this deplorable condition, nor yet to extricate my self from under his griping oppression.</p>
+               <p>The truth is, such were my unspeakable straits at that present by reason thereof, that when I was shortly after to travel again to <hi>London,</hi> and not to return home for two moneths space and more, I was forced (to my great grief) to leave my dearly beloved wife almost wholly desti<g ref="char:EOLhyphen"/>tute of all kind of necessaries, for the sub<g ref="char:EOLhyphen"/>sistence of her self and family during the time of my absence: being no wayes able to furnish her with <hi>so much as</hi> one half peck of bread-corn, nor one half peck of
+<pb n="7" facs="tcp:154016:4"/>beer-corn, nor yet one half crown in mo<g ref="char:EOLhyphen"/>ney; all the money I then had or could procure, being too too little to bear my own charges in a journey of so many scores of miles.</p>
+               <p>And no small aggravation of my grief <hi>this</hi> was, especially when I considered her parentage, education, large portion, pre<g ref="char:EOLhyphen"/>sent age, <hi>&amp;c.</hi> she having been a Gentle<g ref="char:EOLhyphen"/>mans daughter of good worth and quality, very tenderly educated, one that hath brought me an estate of many hundred pounds value, hath been my dearly loving yoak-fellow almost 37. years; and her self now aged almost 70. years; and withall so much decayed in strength, that she needed to have expended on her self more in a week, then she by any means could have got in a moneth. So that had not the Lord in mercy moved the charity of some Christi<g ref="char:EOLhyphen"/>ans in <hi>London</hi> for my supply, both my self and wife (long before this) might have perished for want of bread.</p>
+               <p>Who that hath the bowels of a man, will not abhor such inhumanity? first, to reduce another undeservedly to such straits as to be ready to perish through want; and then in the mean while willfully keep his goods from him, and at the spoiling hand too, through want whereof he is continued in that perishing condition. Yet such (and no other) was the humanity of my Adversary towards me: for to instance only in the aforesaid detained Corn; which (what with mice, mustiness, and growing by reason of its dampness) was in that interim so ex<g ref="char:EOLhyphen"/>ceedingly spoiled, that afterward (when I had obtained an Order for its delivery) I was forced to make off a considerable part of the same, for less then half what it would have yeilded, might I but have had it to have sold in season.</p>
+               <p>And when the said Order was once ob<g ref="char:EOLhyphen"/>tained, (though he would not deny me the said corn it self, yet) then he denied to al<g ref="char:EOLhyphen"/>low me time sufficient for threshing the same in the Barn, and so forced me to re<g ref="char:EOLhyphen"/>move it thence and thresh it else-where; and yet made no use of the Barn himself for divers moneths following: by which willful churlishness of his, I sustained (not only an unnecessary charge in removing it, but withall) an unavoidable loss by its waste in the removal.</p>
+               <p>Give me leave to hint yet some other things, which I being quite deprived of, know not wel how to omit the mention of; as namely two usefull Glass-Cases of Joy<g ref="char:EOLhyphen"/>ners work, which (for antiquity sake) I could not but prize, as also my Study shelves, with a fair Writing board, besides very many necessarie shelves in other rooms of the house; together with seve<g ref="char:EOLhyphen"/>ral such like Conveniences, which I do not so much as <hi>once</hi> mention, although nei<g ref="char:EOLhyphen"/>ther the one nor the other ever came there but at my charge: Now because my neigh<g ref="char:EOLhyphen"/>bours that in my absence managed the re<g ref="char:EOLhyphen"/>move, being bound (as aforesaid) in a bond of 1500. l. to deliver up ful possession with<g ref="char:EOLhyphen"/>in ten days, were forced (through want of time) to leave those conveniences behinde; therfore the said Mr. <hi>Tullie</hi> (without tender of the least satisfaction) makes bold to in<g ref="char:EOLhyphen"/>gross them all to himself, claiming them as his own proper goods, meerly because they are fastned to the Freehold, which else could be no way serviceable: Yet, if (at length) upon no other account but this, he do become the owner of them; he (for his part) may thank mans Law more then Christs Gospel for that gain; And I (for my part) may too too justly (with a small alteration) apply that ancient Poetical pas<g ref="char:EOLhyphen"/>sage to him, which was long since applied to another Creature, differing from him in kind, but not much in carriage;
+<q>
+                     <l>— Sua me vestigia terrent,</l>
+                     <l>Omnia se adversum spectantia, nulla retrorsū.</l>
+                  </q>
+               </p>
+               <p>THere is yet one thing more before I close, &amp; woful it is to me that I have any such thing to write. Two of the forementioned frivolous suits, being in <hi>August</hi> last 1661. prosecuted a<g ref="char:EOLhyphen"/>gainst me at <hi>Durham</hi>-Assises; and proof being brought that I had trespassed against the said Mr. <hi>Tullie,</hi> I was cast in both the said suits; and albeit (the Al-seeing God knows) I did him not one penny worth of wrong therein, yet (as a new addition to all my other woes) besides the loss of my own charges, I was (within few days after) arrested and so compelled to pay to him eleven pound, fourteen shillings, and four pence, every <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
